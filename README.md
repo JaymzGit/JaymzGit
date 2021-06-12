@@ -1,6 +1,5 @@
 <div>
   <p align="center">
-    <h1 align="center" >My Profile</h1>
     <br>
     <div align="left">
    Hi I'm Jaymz or James, welcome to my Github!

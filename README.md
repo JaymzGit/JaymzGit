@@ -1,6 +1,8 @@
 <div>
   <p align="center">
     <br>
+    <p> Hi, I'm James or Jaymz. Keep up to date with some of my code!
+     <br>
     <div align="left">
     </div>
   </p>

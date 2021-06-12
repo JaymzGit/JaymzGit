@@ -2,8 +2,6 @@
   <p align="center">
     <br>
     <div align="left">
-   Hi I'm Jaymz or James, welcome to my Github!
-   🎉I'm 18 years old
     </div>
   </p>
   

@@ -1,7 +1,7 @@
 <div>
   <p align="center">
     <br>
-    <p> Hi, I'm James or Jaymz. Keep up to date with some of my code!
+    <p> Hi, I'm James or Jaymz. Keep up to date with some of my code! I am the owner of Elekro at https://top.gg/bot/820619140133290005
      <br>
     <div align="left">
     </div>

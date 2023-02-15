@@ -3,4 +3,6 @@
 ## 📊 GitHub Stats:
 [![James' GitHub Stats](https://github-readme-stats.vercel.app/api?username=jaymzgit&show_icons=true&theme=dracula&count_private=true)]
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jaymzgit&layout=compact&hide=css,html,handlebars)]
+## 🏆 GitHub Trophies:
+[![trophy](https://github-profile-trophy.vercel.app/?username=jaymzgit&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 

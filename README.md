@@ -6,9 +6,7 @@
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jaymzgit&theme=tokyonight&layout=compact&hide=css,html,handlebars)
 ## 🏆 GitHub Trophies:
 [![trophy](https://github-profile-trophy.vercel.app/?username=jaymzgit&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
-
-##Spotify: 
+## 🎧 Spotify: 
 ![Spotify](https://spotify-recently-played-readme.vercel.app/api?user=rqvile9tj0lec846dgoabpjda&count=3)
-
 ##
 [![](https://visitcount.itsvg.in/api?id=JaymzGit&label=Profile%20Views&icon=5&pretty=false)](https://visitcount.itsvg.in)

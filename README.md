@@ -9,4 +9,4 @@
 ## 🎧 Spotify: 
 ![Spotify](https://spotify-recently-played-readme.vercel.app/api?user=rqvile9tj0lec846dgoabpjda&count=3)
 ##
-[![](https://visitcount.itsvg.in/api?id=JaymzGit&label=Profile%20Views&icon=5&pretty=false)](https://visitcount.itsvg.in)
+![](https://komarev.com/ghpvc/?username=JaymzGit)

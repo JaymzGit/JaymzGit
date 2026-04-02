@@ -10,8 +10,6 @@ I’ve done competitions, built projects but the goal stays the same:
 
 > Build AI-driven systems that actually *do something meaningful*
 
-I don’t just want to use AI. I want to understand it well enough to bend it.
-
 Fun Facts:
 - I've participated in WorldSkills Malaysia 2023 for Web Design Technologies
 - Represented my varsity at PolySkills 2022 and got silver 🥈

@@ -1,17 +1,25 @@
 Hey there! 👋
 
-I'm [James](https://www.linkedin.com/in/jameskhor03/), an AI student based in Malaysia.
+I'm [James Khor Xuan Hao (许轩豪)](https://www.linkedin.com/in/jameskhor03/), a Bachelor of Computer Science (Artificial Intelligence) student at Universiti Teknikal Malaysia Melaka (UTeM), specializing in Computer Vision and Machine Learning.
 
-I'm deep into Artificial Intelligence, constantly chasing that moment where code turns into something actually *useful* (or at least cool enough to flex).
+I enjoy building practical AI systems — from fine-tuning computer vision models to deploying machine learning solutions on edge devices and mobile platforms.
 
-If an idea sticks in my head long enough, there’s a high chance I’ll try to build it, whether it’s AI-related or a simple app to automate tasks and make things simpler for users!
+Highlighted Projects:
+• NutriKidney: Fine-tuned YOLO26-Nano (85.6% mAP@0.5) on Malaysian food classes with custom geometric portion-size estimation for Chronic Kidney Disease dietary and nutrient tracking.  
+• PalmPass AIoT: Engineered an edge-AI palm-vein attendance system using Google MediaPipe + ESP32-CAM, paired with a live React Native monitoring app utilizing Expo Go and Arduino IDE.  
 
-I’ve done competitions, built projects but the goal stays the same:
+Leadership & Competitions:
+• iDRIVE 2024 UTHM: Gold Award for E-Koperasi Digital Makeover (FYP Project)
+• WorldSkills Malaysia Belia 2023: 4th Place in Web Technologies.
+• PolySkills 2022: Silver Medalist for Web Development and Design @ Politeknik Mersing.
+• UTeM AI Club Exco: Led hands-on Machine Learning workshop and organized national Minecraft Build Competition for Karnival ICT 2026 under Majlis Bandaraya Melaka Bersejarah (MBMB).
 
-> Build AI-driven systems that actually *do something meaningful*
+Core Stack:
+• AI / Vision: PyTorch, TensorFlow, YOLO, OpenCV, MediaPipe, Scikit-learn, LangChain, MCP  
+• Languages & Frameworks: Python, React Native, Java, JavaScript, C++, PHP, SQL, Tailwind CSS  
+• Developer Tools: Bash/Linux, Docker, Tailscale, HuggingFace, FastAPI, Git/GitHub, ESP32, n8n
 
 Fun Facts:
-- I've participated in WorldSkills Malaysia 2023 for Web Design Technologies
-- Represented my varsity at PolySkills 2022 and got silver 🥈
 - I'm a big fan of Formula 1, K-Pop and gaming
+- I'm particularly interested in Computer Vision, Machine Learning, Edge AI, and building AI-powered applications that solve real-world problems.
 - I can debug for hours just to realize it was one dumb mistake

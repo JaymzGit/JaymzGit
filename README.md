@@ -1,7 +1,7 @@
 # James Khor Xuan Hao
 Hey there! 👋
 
-I'm [James Khor (许轩豪)](https://www.linkedin.com/in/jameskhor03/), a Bachelor of Computer Science (Artificial Intelligence) student at Universiti Teknikal Malaysia Melaka (UTeM), specializing in Computer Vision and Machine Learning.
+I'm [James Khor (许轩豪)](https://www.linkedin.com/in/jameskhorxuanhao/), a Bachelor of Computer Science (Artificial Intelligence) student at Universiti Teknikal Malaysia Melaka (UTeM), specializing in Computer Vision and Machine Learning.
 
 I enjoy building practical AI systems — from fine-tuning computer vision models to deploying machine learning solutions on edge devices and mobile platforms.
 
